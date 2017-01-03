@@ -1,5 +1,7 @@
 # lolmh-3p-linker
 
-One-click Chrome extension to view official League of Legends Match History pages on a 3rd-party website (Leagueofgraphs.com, unaffiliated).
+League of Legends Match History Third-Party Linker
 
-Chrome Web Store Link: https://chrome.google.com/webstore/detail/gfimaidmffblbfnnkokogjginlifdhln/publish-accepted?hl=en
+One-click Chrome extension to view official League of Legends (unaffiliated) Match History pages on a 3rd-party website (Leagueofgraphs.com, unaffiliated).
+
+Chrome Web Store Link: https://chrome.google.com/webstore/detail/gfimaidmffblbfnnkokogjginlifdhln/
